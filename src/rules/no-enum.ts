@@ -6,7 +6,6 @@ const noEnum = createRule({
     type: "problem",
     docs: {
       description: "Disallow the use of all enums",
-      category: "Best Practices",
       recommended: "error",
     },
     messages: {

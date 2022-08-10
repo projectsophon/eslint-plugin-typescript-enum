@@ -6,7 +6,6 @@ const onlyConstEnum = createRule({
     type: "problem",
     docs: {
       description: "Only allow the use of const enums",
-      category: "Best Practices",
       recommended: "error",
     },
     messages: {

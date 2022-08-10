@@ -19,13 +19,13 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@typescript-eslint/experimental-utils": "^4.28.3"
+    "@typescript-eslint/experimental-utils": "^5.33.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.41",
     "rimraf": "^3.0.2",
-    "typesafeconfig": "^4.2.0",
-    "typescript": "^4.2.4"
+    "typesafeconfig": "^4.3.0",
+    "typescript": "^4.7.4"
   },
   "keywords": [
     "typescript",
